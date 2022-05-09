@@ -16,7 +16,7 @@ class BillAmount{
         type = ebType;
     }
 
-    double calcBill()
+    double calcBill() 
     {
         total = preRead + curRead ;
 
